@@ -12,4 +12,4 @@ The project contains one page (index.html) Divided into three sections SERVICES 
 
 note: The site is responsive on all screens using  @media-query
 ===============================================================================================================
-                                    INSTALL PROJECT AND DISCOVER IT
+visit website in live demo: https://letmeproo.github.io/portfolio-website/                                   
